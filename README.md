@@ -3,7 +3,7 @@
 <br />
 
 ![Cedrick's Github Stats](https://github-readme-stats.vercel.app/api?username=git-ced&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars) 
-![Cedrick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-ced&layout=compact&theme=dracula&card_width=444)
+![Cedrick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-ced&layout=compact&theme=dracula)
 
 <!--
 Here are some ideas to get you started:
