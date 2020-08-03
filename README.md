@@ -3,9 +3,11 @@
 
 ### Hi there 👋
 
+<p>🤓&nbsp; I’m a high school student, and fullstack web developer.</p>
+<p>🌱&nbsp; I'm currently learning and making myself a better person each day.</p>
+
 ### Connect with Me 🤝
-<br />
-<p>
+<section>
   <a href="https://www.linkedin.com/in/cedrick-castro/" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,10 +26,12 @@
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cedrick@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</section>
 
 ### Visitor Count 👀
-<img src="https://profile-counter.glitch.me/git-ced/count.svg" />
+<section>
+  <img src="https://profile-counter.glitch.me/git-ced/count.svg" />
+</section>
 
 <!--
 Here are some ideas to get you started:
