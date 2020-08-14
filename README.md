@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-<p>🤓&nbsp; I’m a high school student, and fullstack web developer.</p>
-<p>🌱&nbsp; I'm currently learning and making myself a better person each day.</p>
+<p>🤓&nbsp; I’m a high school student, and a fullstack web developer.</p>
+<p>🌱&nbsp; I'm currently learning and make myself a better person each day.</p>
 
 ### Connect with Me 🤝
 <section>
