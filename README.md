@@ -4,7 +4,8 @@
 ### Hi there 👋
 
 <p>🤓&nbsp; I’m a high school student, and a fullstack web developer.</p>
-<p>🌱&nbsp; I'm currently learning and make myself a better person each day.</p>
+<p>🌱&nbsp; I'm currently learning and striving to make myself a better person each day.</p>
+<p>🔭&nbsp; I'm currently working on various personal projects like thesis, and also for Lyon.</p>
 
 ### Connect with Me 🤝
 <section>
