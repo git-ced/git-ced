@@ -1,11 +1,12 @@
+### Hello! 👋
+
+I'm Cedrick, a fullstack software engineer, aspiring to become a software architect 🌱. Currently an undergrad computer science student at De La Salle University while also doing some part-time jobs as a developer 😅.
+
+I ocassionally read some light novels, manga/wha/huas, and watch some good 'ol animes 🙌. I also like reading books about software and personal growth 📚. Reading is fun :').
+
+### Some Stats 📊
 ![Cedrick's Github Stats](https://github-readme-stats.vercel.app/api?username=git-ced&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars) 
 ![Cedrick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-ced&layout=compact&theme=dracula)
-
-### Hi there 👋
-
-<p>🤓&nbsp; I’m a high school student, and a fullstack web developer.</p>
-<p>🌱&nbsp; I'm currently learning and striving to make myself a better person each day.</p>
-<p>🔭&nbsp; I'm currently working on various personal projects like thesis, and also for Lyon.</p>
 
 ### Connect with Me 🤝
 <section>
@@ -33,16 +34,3 @@
 <section>
   <img src="https://profile-counter.glitch.me/git-ced/count.svg" />
 </section>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
