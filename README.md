@@ -1,8 +1,32 @@
 ## Hello, friend. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
 
-I'm Cedrick, a fullstack software engineer, aspiring to become a software architect 🌱. Currently an undergrad computer science student at De La Salle University while also doing some part-time jobs as a developer 😅.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6E96&width=300&height=30&lines=The+name's+Cedrick;A+lifelong+learner;A+functional+programmer;A+pragmatist;A+hobbyist)](https://git.io/typing-svg)
+
+A fullstack software engineer, aspiring to become a software architect 🌱. Currently an undergrad computer science student at De La Salle University while also doing some part-time jobs as a developer 😅.
 
 I ocassionally read some light novels, manga/wha/huas, and watch some good 'ol animes 🙌. I also like reading books about software and personal growth 📚. Reading is fun 🥲.
+
+## Connect with Me 🤝
+<section>
+  <a href="https://www.linkedin.com/in/cedrick-castro/" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cedi.castro@gmail.com&tf=1" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/cedrick_dev" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/munting.prinsipe/" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/gwaponglapiscian" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cedrick@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</section>
 
 ## Some Numbers 🧮
 <section>
@@ -26,28 +50,6 @@ I ocassionally read some light novels, manga/wha/huas, and watch some good 'ol a
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-ced&layout=compact&theme=dracula&hide_border=true&card_width=440"
     />
   </p>
-</section>
-
-## Connect with Me 🤝
-<section>
-  <a href="https://www.linkedin.com/in/cedrick-castro/" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cedi.castro@gmail.com&tf=1" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/cedrick_dev" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/munting.prinsipe/" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/gwaponglapiscian" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cedrick@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </section>
 
 ## Visitor Count 👀
