@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6E96&width=300&height=30&lines=The+name's+Cedrick;A+lifelong+learner;A+functional+programmer;A+pragmatist;A+hobbyist;)](https://git.io/typing-svg)
 
-A fullstack software engineer, aspiring to become a software architect 🌱. Currently an undergrad computer science student at De La Salle University 😅.
+A fullstack software engineer, also aspiring to become a software architect 🌱. Currently an undergrad computer science student at De La Salle University 😅.
 
 I ocassionally read some light novels, manga/wha/huas, and watch some good 'ol animes 🙌. I also like reading books about software and personal growth 📚. Reading is fun 🥲.
 
