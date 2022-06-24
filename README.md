@@ -1,4 +1,4 @@
-## Hello, friend. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
+## Hello, friend. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6E96&width=300&height=30&lines=The+name's+Cedrick;A+lifelong+learner;A+functional+programmer;A+pragmatist;A+hobbyist;)](https://git.io/typing-svg)
 
