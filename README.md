@@ -1,58 +1,32 @@
-## Hello, friend. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px" />
+## Hi there, I'm Cedrick <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6E96&width=300&height=30&lines=The+name's+Cedrick;A+lifelong+learner;A+functional+programmer;A+pragmatist;A+hobbyist;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF6E96&width=500&height=35&lines=Software+Engineer+%F0%9F%92%BB;Product+Lead+and+Manager+%F0%9F%92%BC;Typescript+Enthusiast+%F0%9F%94%A5;Continuous+Learner+%F0%9F%93%9A;Systems+Thinking+%F0%9F%92%AD)](https://git.io/typing-svg)
 
-A fullstack software engineer, also aspiring to become a software architect 🌱. Currently an undergrad computer science student at De La Salle University 😅.
 
-I ocassionally read some light novels, manga/wha/huas, and watch some good 'ol animes 🙌. I also like reading books about software and personal growth 📚. Reading is fun 🥲.
+Kick-started my career as a full-stack software engineer at [Lyon](https://lyon.com.ph) :hatching_chick:, and I quickly discovered my love for software architecture. The journey didn't stop there. Now, I'm leading the product over at [Boozt](https://boozt.io). Time does fly when you're writing code, doesn't it? 🚀
 
-## Connect with Me 🤝
-<section>
-  <a href="https://www.linkedin.com/in/cedrick-castro/" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cedi.castro@gmail.com&tf=1" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/cedrick_dev" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/munting.prinsipe/" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/gwaponglapiscian" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cedrick@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</section>
+## :telescope: Current Project 
 
-## Some Numbers 🧮
-<section>
-  <p>
-    <img
-      alt="Cedrick Castro's Streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=git-ced&theme=dracula&hide_border=true"
-    />
-  </p>
+Earlier in my career, I enjoyed contributing to open-source through Hacktoberfest 🌐. Though my current role in a startup leaves less time for these contributions, it's been an exciting journey, with plenty of challenges but lots of learning at the same time! :books:
 
-  <p>
-    <img
-      alt="Cedrick Castro's Stats"
-      src="https://github-readme-stats.vercel.app/api?username=git-ced&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&hide_border=true"
-    />
-  </p>
+## :school_satchel: My Education
 
-  <p>
-    <img
-      alt="Cedrick Castro's Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-ced&layout=compact&theme=dracula&hide_border=true&card_width=440"
-    />
-  </p>
-</section>
+Studied Computer Science at De La Salle University in the Philippines. :computer:
 
-## Visitor Count 👀
-<section>
-  <img src="https://profile-counter.glitch.me/git-ced/count.svg" />
-</section>
+## :mailbox: How to reach me
+- Drop me an email at [cedi.castro@gmail.com](mailto:cedi.castro@gmail.com) :e-mail:
+- Or connect on [LinkedIn](https://linkedin.com/in/cedrick-castro/) :briefcase:
+
+## :chart_with_upwards_trend: My Stats
+
+![Cedrick's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-ced&theme=dracula&hide_border=true)
+
+![Cedrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-ced&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&hide_border=true)
+
+![Cedrick's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-ced&layout=compact&theme=dracula&hide_border=true&card_width=440)
+
+## They came, they saw 👀
+
+![Visitor Count](https://profile-counter.glitch.me/git-ced/count.svg)
+
+Thank you for stopping by my corner of Github. Stay curious :star2:
